@@ -1,0 +1,14 @@
+C:\Users\Estudiantes\Downloads\Programacion3\Grupo03\EjeciciosVarios\bin\Debug\EjeciciosVarios.exe.config
+C:\Users\Estudiantes\Downloads\Programacion3\Grupo03\EjeciciosVarios\bin\Debug\EjeciciosVarios.exe
+C:\Users\Estudiantes\Downloads\Programacion3\Grupo03\EjeciciosVarios\bin\Debug\EjeciciosVarios.pdb
+C:\Users\Estudiantes\Downloads\Programacion3\Grupo03\EjeciciosVarios\obj\Debug\EjeciciosVarios.csproj.AssemblyReference.cache
+C:\Users\Estudiantes\Downloads\Programacion3\Grupo03\EjeciciosVarios\obj\Debug\EjeciciosVarios.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Downloads\Programacion3\Grupo03\EjeciciosVarios\obj\Debug\EjeciciosVarios.exe
+C:\Users\Estudiantes\Downloads\Programacion3\Grupo03\EjeciciosVarios\obj\Debug\EjeciciosVarios.pdb
+C:\Users\luism\Downloads\Grupo03\EjeciciosVarios\obj\Debug\EjeciciosVarios.csproj.AssemblyReference.cache
+C:\Users\luism\Downloads\Grupo03\EjeciciosVarios\obj\Debug\EjeciciosVarios.csproj.CoreCompileInputs.cache
+C:\Users\luism\Downloads\Grupo03\EjeciciosVarios\obj\Debug\EjeciciosVarios.exe
+C:\Users\luism\Downloads\Grupo03\EjeciciosVarios\obj\Debug\EjeciciosVarios.pdb
+C:\Users\luism\Downloads\Grupo03\EjeciciosVarios\bin\Debug\EjeciciosVarios.exe.config
+C:\Users\luism\Downloads\Grupo03\EjeciciosVarios\bin\Debug\EjeciciosVarios.exe
+C:\Users\luism\Downloads\Grupo03\EjeciciosVarios\bin\Debug\EjeciciosVarios.pdb
